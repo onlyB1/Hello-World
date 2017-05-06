@@ -1,2 +1,3 @@
 # Hello-World
-This is just a hello-world repository.  I'm doing this for the tutorial's sake
+Homies,  Cheers! You're probably reading this because you really think I'm cool and would, sometime in the future, like to casually get coffee with me.  I understand that greatly!
+
